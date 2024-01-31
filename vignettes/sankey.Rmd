@@ -1,0 +1,29 @@
+---
+title: "WorkDash Project Notebook: Building an Interactive Job Search Dashboard"
+author: "Donnie Minnick"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    df_print: paged
+# output: rmarkdown::html_vignette
+# vignette: >
+#   %\VignetteIndexEntry{prepare}
+#   %\VignetteEngine{knitr::rmarkdown}
+#   %\VignetteEncoding{UTF-8}
+---
+
+## Context
+
+### Why R?
+
+I wanted to build a dashboard I could share publicly, and I also knew I wanted to experiment with a sankey chart.  
+
+The Power BI desktop application includes a sankey visual, but I didn't have an easy way to publicly share a Power BI report.  And Tableau Public provides access to visuals, but doesn't include a sankey visual.  A sankey visual was included as part of a beta test and subsequently removed.  
+
+So I opted for R because I can push an interactive Shiny application to the RPubs site and share it publicly from there.  And the R networkD3 package provides functionality to build a sankey chart.
+
+
+
+## Source Notes
+
+[This article](https://r-graph-gallery.com/323-sankey-diagram-with-the-networkd3-library.html) by the team at the R Graph Gallery website served as a starting point for learning how to a sankey chart with R.
