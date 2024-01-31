@@ -5,7 +5,7 @@ This repository contains all of the project files I created to create an interac
 After a 29-year career at Prudential, my position, along with those of 1,500 colleagues, has been impacted by leadership efforts to be more competitive. 
 Proud of our collective contributions, I'm now eager to leverage my skills and retirement industry experience in new opportunities. I’m grateful for a fulfilling career at Prudential, I look forward to the next phase of my professional journey.
 
-I love to work at the intersection of people, process, data and technology, and so I've been using my time to build my data analysis skills.  This project is an opportunity for me to take on a passion project that, hopefully, will enable me to improve and refine my job search strategies over time.
+I love to work at the intersection of people, process, data and technology, and so I've been using my time to build my data analysis skills.  This effort is an opportunity for me to take on a passion project that, hopefully, will enable me to improve and refine my job search strategies over time.
 
 ## Outputs
 My main output is to create an interactive Shiny dashboard I can share publicly.  As I plan and get underway, I will share additional updates.
